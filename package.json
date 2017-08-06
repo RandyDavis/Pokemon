@@ -1,0 +1,12 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "Pokemon demo app made with NodeJS and MongoDB",
+  "main": "app.js",
+  "repository": {
+    "url": "https://github.com/RandyDavis/Pokemon.git",
+    "type": "git"
+  },
+  "author": "Randy Davis",
+  "license": "MIT"
+}

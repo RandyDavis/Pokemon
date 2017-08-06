@@ -1,0 +1,1 @@
+Repo for demo Pokemon App made with NodeJS and MongoDB.
